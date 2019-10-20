@@ -1,8 +1,8 @@
 ## Description
 
-This project generates cards with images and Wikidata ids. You can then send them to your printer.
+The **WikidataCon Card Game generator** generates cards with images and Wikidata ids. You can then send them to your printer.
 
-This project was used to generate the [WikidataCon Card Game](https://www.wikidata.org/wiki/User:Envlh/WikidataCon_Card_Game).
+This project was used to generate the [WikidataCon Card Game](https://www.lehir.net/the-wikidatacon-card-game-or-how-to-thank-thousand-wikimedians-at-once/) ([credits](https://www.wikidata.org/wiki/User:Envlh/WikidataCon_Card_Game)).
 
 ## Usage
 
@@ -21,6 +21,8 @@ Run the following command:
 Generated cards are available in the `results` folder. Files are optimized for printing (CMYK colorspace).
 
 ## License
+
+**WikidataCon Card Game generator** by Envel Le Hir <https://www.lehir.net/>
 
 This project is available under CC0 1.0 Universal (CC0 1.0) license:
 <https://creativecommons.org/publicdomain/zero/1.0/>
